@@ -51,6 +51,5 @@
 <p align = "center">
   <img src = "https://github-readme-stats.vercel.app/api?username=loiseFarion&theme=algolia&show_icons=true">
   <img src = "https://github-readme-stats.vercel.app/api/top-langs?username=loiseFarion&hide=html,scss,stylus,blade,jupyter%20notebook,python,css,shell,batchfile,dockerfile,typescript&theme=algolia&show_icons=true">
-  
 </p>
 
