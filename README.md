@@ -24,6 +24,7 @@
 ## 💻 Technologies & Tools
 
 <p align="center">
+  
   <img src="https://img.shields.io/badge/-.NET-181717?style=flat-square&logo=jdotnet" height="25"/>
   <img src="https://img.shields.io/badge/-JAVA-CB3837?style=flat-square&logo=java&logoColor=white" height="25"/>  
   <img src="https://img.shields.io/badge/-Python-%23F7DF1E?style=flat-square&logo=python&logoColor=black" height="25"/>
@@ -46,7 +47,7 @@
 ## ⭐ GitHub Stats
 
 <p align = "center">
-  <img src = "https://github-readme-stats.vercel.app/api?username=kakacordovil&show_icons=true&theme=tokyonight&line_height=27">
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=kakacordovil&hide=css,html&theme=tokyonight">
+  <img src = "https://github-readme-stats.vercel.app/api?username=loisefarion&show_icons=true&theme=tokyonight&line_height=27">
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=loisefarion&hide=css,html&theme=tokyonight">
 </p>
 
