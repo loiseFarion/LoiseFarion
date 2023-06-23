@@ -53,4 +53,9 @@
 </p>
 
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=loiseFarion&show_icons=true&locale=en&layout=compact" alt="loiseFarion" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=loiseFarion&show_icons=true&locale=en" alt="loiseFarion" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=loiseFarion&" alt="loisefarion" /></p>
 
