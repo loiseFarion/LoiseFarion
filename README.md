@@ -49,6 +49,6 @@
 ## ⭐ GitHub Stats
 <p align="center">
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=loiseFarion&show_icons=true&locale=en&layout=compact" alt="loiseFarion" /></p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=loiseFarion&show_icons=true&locale=en" alt="loiseFarion" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=loiseFarion&show_icons=true&locale=en&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=000000&bg_color=ffffff" alt="loiseFarion" />
 </p>
 
